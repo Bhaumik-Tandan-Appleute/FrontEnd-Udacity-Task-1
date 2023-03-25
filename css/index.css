@@ -1,6 +1,6 @@
   @import url("container.css");
   @import url("postGrid.css");
-  @import url("post.css");
+  @import url("card.css");
   h1 {
     font-size: 2em;
     font-weight: bold;
